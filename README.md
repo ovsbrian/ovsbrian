@@ -4,5 +4,5 @@
  
   
  <h3 align="center">¡Buenas 👋! Me llamo Brian 👨🏻‍💻</h3>
-<p align="center">Soy <strong>Desarrollador Web Jr Python</strong>.  
+<p align="center">Soy <strong>Desarrollador Web Jr</strong>.  
  
