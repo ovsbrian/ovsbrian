@@ -1,6 +1,6 @@
 
  
-  <img height="320" width="100%" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif" style="border-radius: 50px;">
+  <img height="320" width="100%" src="https://i.pinimg.com/originals/65/60/7e/65607ea50615743c560b391749cfb5ab.gif" style="border-radius: 50px;">
  
   
  <h3 align="center">¡Buenas 👋! Me llamo Brian 👨🏻‍💻</h3>
