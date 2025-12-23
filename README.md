@@ -3,14 +3,12 @@
  
  
   
-<h3 align="center">¡Buenas 👋! Me llamo Brian 👨🏻‍💻</h3>
-
 <p align="center">
   <strong>Desarrollador Web</strong> | <strong>Analista Jr. en GeneXus 18</strong>
 </p>
 
 <p align="center">
-  Puedes ver mi Portfolio haciendo click <a href='https://www.ovsbrian.site/' target="_blank"> aquí</a> 👈🏼
+  Puedes ver mi Portfolio haciendo click <a href='https://www.ovsbrian.site/' target="_blank"> aquí</a>.
 </p>
 
 <p align="center">
@@ -18,20 +16,6 @@
 </p>
 
 ---
-
-### 🚀 Sobre mí
-
-Soy un apasionado del desarrollo de software, enfocado actualmente en la creación de experiencias web modernas y funcionales. Combino mi experiencia como **Desarrollador Web** con mi rol como **Analista Jr. en GeneXus 18**, lo que me permite tener una visión versátil tanto en código artesanal como en herramientas Low-Code de nivel empresarial.
-
-### 🛠️ Tecnologías y Herramientas
-
-- **Frontend:** React, Next.js, Astro.js.
-- **Estilos:** Tailwind CSS.
-- **Lenguajes:** TypeScript, JavaScript.
-- **Enterprise Solutions:** GeneXus 18 (Analista y Desarrollador Jr).
-
-### 📫 Contacto
-
-- 🌐 Portfolio: [ovsbrian.site](https://www.ovsbrian.site/)
+ react · tailwind · typescript · git · genexus 18
 ---
  
