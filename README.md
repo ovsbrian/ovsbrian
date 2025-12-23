@@ -6,7 +6,7 @@
 <h3 align="center">¡Buenas 👋! Me llamo Brian 👨🏻‍💻</h3>
 
 <p align="center">
-  <strong>Desarrollador Web Jr.</strong> | <strong>Analista Jr. en GeneXus 18</strong>
+  <strong>Desarrollador Web</strong> | <strong>Analista Jr. en GeneXus 18</strong>
 </p>
 
 <p align="center">
