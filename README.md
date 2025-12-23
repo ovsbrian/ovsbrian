@@ -33,10 +33,5 @@ Soy un apasionado del desarrollo de software, enfocado actualmente en la creaci�
 ### 📫 Contacto
 
 - 🌐 Portfolio: [ovsbrian.site](https://www.ovsbrian.site/)
-- 💼 LinkedIn: [Tu Enlace Aquí]
-
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight" alt="Mis Estadísticas" />
-</p>
+ 
