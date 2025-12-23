@@ -5,5 +5,5 @@
   
  <h3 align="center">¡Buenas 👋! Me llamo Brian 👨🏻‍💻</h3>
 <p align="center">Soy <strong>Desarrollador Web Jr</strong>.  
-<p align="center">Puedes ver mi Portfolio haciendo click <a href='https://www.ovsbrian.me/' target="_blank"> aquí</a> 👈🏼</p>
+<p align="center">Puedes ver mi Portfolio haciendo click <a href='https://www.ovsbrian.site/' target="_blank"> aquí</a> 👈🏼</p>
  
