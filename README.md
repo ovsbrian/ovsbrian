@@ -16,6 +16,8 @@
 </p>
 
 ---
+
  react · tailwind · typescript · git · genexus 18
+
 ---
  
