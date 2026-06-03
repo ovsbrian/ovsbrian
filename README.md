@@ -13,7 +13,7 @@
 
 ---
 
- react · tailwind · typescript · git · genexus 18
+ react · tailwind · typescript · git · genexus 18 · claude 😎
 
 ---
  
