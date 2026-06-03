@@ -4,11 +4,7 @@
  
   
 <p align="center">
-  <strong>Desarrollador Web</strong> | <strong>Analista Jr. en GeneXus 18</strong>
-</p>
-
-<p align="center">
-  Puedes ver mi Portfolio haciendo click <a href='https://www.ovsbrian.site/' target="_blank"> aquí</a>.
+  <strong>Otro desarrollador Web</strong>
 </p>
 
 <p align="center">
